@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+#- icon: envelope
+#  icon_pack: fas
+#  link: '/#contact'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -64,7 +64,7 @@ social:
   link: uploads/CV_YujingYan_2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -74,4 +74,4 @@ I am an an evolutionary macroecologist with a broad interest in biogeography, ph
 
 I am now working as a HUH research fellow at the Harvard University Herbaria.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_YujingYan_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_YujingYan_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
