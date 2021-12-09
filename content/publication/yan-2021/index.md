@@ -57,8 +57,12 @@ abstract: 'The tea family (Theaceae) has a highly unusual amphi-Pacific disjunct
   of inferred biogeographical events.'
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We revealed a circumboreal distribution of the tea family from the early Cenozoic to the
+  Miocene and inferred repeated expansions and retractions of the modelled distribution
+  in the Northern Hemisphere, suggesting that the current Theaceae distribution could
+  be the remnant of a larger continuous distribution associated with the boreotropical
+  forest that has been hypothesized to occupy most of the northern latitudes in the
+  early Cenozoic.
 
 tags: []
 
