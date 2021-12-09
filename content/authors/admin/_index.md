@@ -70,8 +70,14 @@ social:
 highlight_name: true
 ---
 
-I am an an evolutionary macroecologist with a broad interest in biogeography, phylogenomics, and climate change ecology. 
+I am an evolutionary macroecologist with a broad interest in biogeography, phylogenomics, and climate change ecology. 
 
-I am now working as a HUH research fellow at the Harvard University Herbaria.
+I have recently completed my PhD at the Center for Macroecology, Evolution, and Climate at the University of Copenhagen, Denmark where I worked on the biogeography and evolution of the tea family (Theaceae). 
+
+I am now working as a research fellow at the Harvard University Herbaria, continuing my journey with members from the tea family. 
+
+#I am an an evolutionary macroecologist with a broad interest in biogeography, phylogenomics, and climate change ecology. 
+
+#I am now working as a HUH research fellow at the Harvard University Herbaria.
 
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_YujingYan_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
