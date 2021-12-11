@@ -1,5 +1,5 @@
 ---
-title: Evolution of Theaceae: phylogeny, biogeography, and diversification
+title: "Phylogeny, biogeography, and diversification of the tea family (Theaceae)"
 summary: An example of using the in-built project page.
 tags:
 - Phylogenomics
