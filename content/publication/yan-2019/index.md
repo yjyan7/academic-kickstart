@@ -8,9 +8,9 @@ title: 'Protecting endemic seed plants on the Tibetan Plateau under future clima
 authors:
 - Yujing Yan
 - Zhiyao Tang
-author_notes:
-- Equal contribution
-- Equal contribution
+#author_notes:
+#- Equal contribution
+#- Equal contribution
 
 date: '2019-05-01'
 doi: 10.1093/jpe/rtz032

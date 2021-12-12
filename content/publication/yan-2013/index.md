@@ -9,9 +9,9 @@ authors:
 - Yujing Yan
 - Xian Yang
 - Zhiyao Tang
-author_notes:
-- Equal contribution
-- Equal contribution
+#author_notes:
+#- Equal contribution
+#- Equal contribution
 
 date: '2013-11-01'
 doi: 10.1002/ece3.847
@@ -28,7 +28,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Ecology and evolution*'
-publication_short: In *ICW*
+publication_short: In *Ecology and Evolution*
 
 abstract: Large-scale patterns of species richness and the underlying mechanisms regulating
   these patterns have long been the central issues in biogeography and macroecology.
@@ -58,7 +58,6 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- BC3
 - climate
 - pattern
 - phylogenetic structure

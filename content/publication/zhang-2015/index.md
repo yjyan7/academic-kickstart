@@ -11,9 +11,9 @@ authors:
 - Junsheng Li
 - Jin-Sheng He
 - Zhiyao Tang
-author_notes:
-- Equal contribution
-- Equal contribution
+#author_notes:
+#- Equal contribution
+#- Equal contribution
 
 date: '2015-01-01'
 doi: 10.1016/j.biocon.2014.10.026
@@ -30,7 +30,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Biological Conservation*'
-publication_short: In *ICW*
+publication_short: In *Biological Conservation*
 
 abstract: ''
 
@@ -39,7 +39,12 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- BC3
+- Climate change
+- Distribution
+- Species distribution model
+- Fungi
+- Cordyceps sinensis
+- Tibetan Plateau
 
 # Display this page in the Featured widget?
 featured: false
