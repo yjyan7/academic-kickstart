@@ -13,8 +13,8 @@ authors:
 - Carsten Rahbek
 - Michael Krabbe Borregaard
 author_notes:
-- Equal contribution
-- Equal contribution
+#- Equal contribution
+#- Equal contribution
 
 date: '2021-06-01'
 doi: 10.1093/sysbio/syab042
@@ -31,7 +31,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Systematic Biology*'
-publication_short: In *ICW*
+publication_short: In *Systematic Biology*
 
 abstract: 'The tea family (Theaceae) has a highly unusual amphi-Pacific disjunct distribution:
   most extant species in the family are restricted to subtropical evergreen broadleaf
@@ -96,7 +96,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- tea_evolution
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

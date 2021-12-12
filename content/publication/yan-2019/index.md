@@ -27,18 +27,18 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Journal of Plant Ecology*'
-publication_short: In *ICW*
+publication_short: In *Journal of Plant Ecology*
 
-abstract: 'Aims: Climate change in the near future may become a major threat to high-altitude
+abstract: 'Climate change in the near future may become a major threat to high-altitude
   endemics by greatly altering their distribution. Our aims are to (i) assess the
   potential impacts of future climate change on the diversity and distribution of
   seed plants endemic to the Tibetan Plateau and (ii) evaluate the conservation effectiveness
   of the current National Nature Reserves (NNRs) in protecting the endemic plants
-  in the face of climate change. Methods: We projected range shifts of 993 endemic
+  in the face of climate change. We projected range shifts of 993 endemic
   species to the years 2050 and 2070 under two representative concentration pathway
   scenarios using an ensemble species distribution modeling framework and evaluated
   range loss, species-richness change and coverage of the current conservation network
-  considering two dispersal scenarios. Important Findings: In a full-dispersal scenario,
+  considering two dispersal scenarios. In a full-dispersal scenario,
   72-81% of the species would expand their distribution by 2070, but 6-20% of the
   species would experience >30% range loss. Most species would shift to the west.
   The projected species net richness would increase across the region on average.
@@ -91,7 +91,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- tibetan_plants
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

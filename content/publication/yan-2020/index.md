@@ -25,7 +25,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: ''
-publication_short: In *ICW*
+publication_short: PhD thesis
 
 abstract: ''
 
