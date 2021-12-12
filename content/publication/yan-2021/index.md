@@ -13,8 +13,8 @@ authors:
 - Carsten Rahbek
 - Michael Krabbe Borregaard
 author_notes:
-#- Equal contribution
-#- Equal contribution
+- Equal contribution
+- Equal contribution
 
 date: '2021-06-01'
 doi: 10.1093/sysbio/syab042
