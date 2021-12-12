@@ -33,7 +33,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Biodiversity Science*'
-publication_short: In *ICW*
+publication_short: In *Biodiversity Science (in Chinese)*
 
 abstract: China is rich in macrofungal biodiversity. However, many species have been
   threatened in recent years by human activity and climate change. Red list assessment

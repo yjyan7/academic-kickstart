@@ -16,9 +16,9 @@ authors:
 - D.L. Hawksworth
 - Z. Wu
 - Y.-J. Yao
-author_notes:
-- Equal contribution
-- Equal contribution
+#author_notes:
+#- Equal contribution
+#- Equal contribution
 
 date: '2020-01-01'
 doi: 10.1186/s43008-020-00040-0
@@ -35,7 +35,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*IMA Fungus*'
-publication_short: In *ICW*
+publication_short: In *IMA Fungus*
 
 abstract: © 2020 The Author(s). Different hypotheses have been proposed to interpret
   the observed unusual ITS (internal transcribed spacer) sequences in Ophiocordyceps
