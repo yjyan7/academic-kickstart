@@ -6,9 +6,9 @@ title: Phylogeny, biogeography and diversification of the tea family (Theaceae)
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Yujing Yan
-author_notes:
-- Equal contribution
-- Equal contribution
+#author_notes:
+#- Equal contribution
+#- Equal contribution
 
 date: '2020-01-01'
 doi: ''
