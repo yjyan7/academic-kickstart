@@ -30,7 +30,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Biodiversity and Conservation*'
-publication_short: In *ICW*
+publication_short: In *Biodiversity and Conservation*
 
 abstract: ''
 
