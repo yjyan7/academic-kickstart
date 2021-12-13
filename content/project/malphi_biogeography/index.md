@@ -1,6 +1,6 @@
 ---
-title: "Phylogeny, biogeography, and diversification of the tea family (Theaceae)"
-summary: An example of using the in-built project page.
+title: "Evolution and biogeography of Malpighiaceae"
+summary: 2018 onwards @ Harvard University Herbaria
 tags:
 - Phylogenomics
 date: "2016-04-27T00:00:00Z"
@@ -29,5 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-Tea family
+2018 onwards

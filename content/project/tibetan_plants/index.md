@@ -1,6 +1,6 @@
 ---
 title: Climate change impact on the distribution of endemic seed plants of the Tibetan Plateau
-summary: An example of using the in-built project page.
+summary: MSc thesis, 2013-2017 @ Peking University
 tags:
 - Diversity patterns
 date: "2016-04-27T00:00:00Z"

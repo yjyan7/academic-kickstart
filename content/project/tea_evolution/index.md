@@ -1,6 +1,6 @@
 ---
 title: "Phylogeny, biogeography, and diversification of the tea family (Theaceae)"
-summary: An example of using the in-built project page.
+summary: PhD thesis, 2016-2020 @ University of Copenhagen
 tags:
 - Phylogenomics
 date: "2016-04-27T00:00:00Z"

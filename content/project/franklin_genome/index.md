@@ -1,6 +1,6 @@
 ---
 title: "The genome of Franklin tree (Franklinia alatamaha Bartr. ex Marshall)"
-summary: ""
+summary: "2021 onwards @ Harvard University"
 tags:
 - Phylogenomics
 date: "2016-04-27T00:00:00Z"

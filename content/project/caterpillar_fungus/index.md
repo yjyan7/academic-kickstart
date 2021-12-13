@@ -1,6 +1,6 @@
 ---
 title: Conservation of the Chinese caterpillar fungus under global warming
-summary: An example of using the in-built project page.
+summary: 2014-2020 @ Peking University & Institute of Microbiology, CAS
 tags:
 - Conservation biology
 date: "2016-04-27T00:00:00Z"
