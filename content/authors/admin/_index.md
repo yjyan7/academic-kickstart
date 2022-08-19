@@ -76,4 +76,4 @@ I have recently completed my PhD at the Center for Macroecology, Evolution, and 
 
 I am now working as a HUH research fellow at the Harvard University Herbaria, continuing my journey with members from the tea family. 
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_YujingYan_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_YujingYan.pdf" "newtab" >}}resumé{{< /staticref >}}.
