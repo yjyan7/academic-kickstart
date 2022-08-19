@@ -61,7 +61,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/CV_YujingYan_2021.pdf
+  link: uploads/CV_YujingYan.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
