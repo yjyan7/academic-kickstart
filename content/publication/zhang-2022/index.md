@@ -1,5 +1,5 @@
 ---
-title: Distribution and conservation of orchid species richness in China
+title: Environment shapes tree community traits in China’s forests
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
