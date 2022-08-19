@@ -39,13 +39,13 @@ abstract: ''
 #  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
--Community assembly
--Environmental filtering
--Forests
--Functional composition
--Functional diversity
--Functional traits
--Macroclimate
+- Community assembly
+- Environmental filtering
+- Forests
+- Functional composition
+- Functional diversity
+- Functional traits
+- Macroclimate
 
 # Display this page in the Featured widget?
 featured: true
