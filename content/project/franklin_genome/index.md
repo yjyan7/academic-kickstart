@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: The oldest Franklinia alatamaha is flowering in the Arnold Arboretum. Photo by Yujing Yan, 2021
   focal_point: Smart
 
 links:
@@ -30,4 +30,3 @@ url_video: ""
 slides: example
 ---
 
-Tea family

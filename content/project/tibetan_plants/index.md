@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: A glimpse of the alpine talus vegetation in Qinghai, China. Photo by Yujing Yan
   focal_point: Smart
 
 links:
@@ -30,4 +30,14 @@ url_video: ""
 slides: example
 ---
 
-MSc project
+Bachelor and MSc project
+
+- The Qinghai-Tibetan Plateau is the highest plateau and one of the largest plateaus on the Earth with an average altitude of >4000m and occupying ~2.5 million km2.
+
+- The rapid uplift of the Qinghai-Tibetan Plateau has resulted in rapid and continuous specification and diversification for plants. Being a center of biodiversity hotspots, the Qinghai-Tibetan Plateau provides habitats for ~9000 vascular plants,of which ~18% are endemic to this area.
+
+- In this project, I 
+  - compiled distribution datasets of ~8000 vascular plants on the Tibetan Plateau. 
+  - analyzed the factors determining the species and phylogenetic diversity patterns. 
+  -	evaluated the impact of future climate change on the distribution of ~1000 endemic seed plants in this region and assessed the effectiveness of current nature reserve system.  
+

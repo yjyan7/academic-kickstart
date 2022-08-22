@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: The fruiting body of a caterpillar fungus in Tibet, China
   focal_point: Smart
 
 links:
@@ -30,4 +30,10 @@ url_video: ""
 slides: example
 ---
 
-2014-2020
+2014-2022
+
+- Co-lead the project with researchers from the Institute of Microbiology, Chinese Academy of Sciences and Yangzhou University. 
+-	Modeled the distribution change of the Chinese caterpillar fungus under climate change using niche modeling method.
+-	Assessed the conservation status of the fungus and established a framework for fungal conservation.
+- Joined a field trip to Himalaya region in Tibet and Hengduan Mountain region in Yunnan to investigate local parasitic fungus diversity in 2021.
+

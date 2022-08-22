@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: A green tea plantation in Hangzhou, China. Photo by Yujing Yan, 2021
   focal_point: Smart
 
 links:
@@ -31,3 +31,8 @@ slides: example
 ---
 
 Tea family
+
+- Compiled datasets of distribution, fossils and traits of the tea family. 
+- Sequenced and de novo assembled the plastid genome, nuclear ribosomal DNA, and ~350 low-copy nuclear genes from herbarium specimens using genome skimming and target enrichment method.
+- Constructed dated phylogenies using phylogenomic methods. 
+-	Inferred biogeographic history, diversification rate and trait evolution of the family based on the data.
