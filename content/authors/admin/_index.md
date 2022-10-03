@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yujing Yan
+title: Yujing Yan, PhD
 
 # Is this the primary user of the site?
 superuser: true
@@ -64,16 +64,18 @@ social:
   link: uploads/CV_YujingYan.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "yujingyan@fas.harvard.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an evolutionary macroecologist with a broad interest in biogeography, phylogenomics, and climate change ecology. 
+Hello! Thank you for visiting my site! 
 
-I have recently completed my PhD at the Center for Macroecology, Evolution, and Climate at the University of Copenhagen, Denmark where I worked on the biogeography and evolution of the tea family (Theaceae). 
+I am an evolutionary macroecologist with a broad interest in biogeography, phylogenomics, and biodiversity patterns under climate change. 
 
-I am now working as a HUH research fellow at the Harvard University Herbaria, continuing my journey with members from the tea family. 
+I am now working as a HUH postdoctoral research fellow at the Harvard University Herbaria, studying the diversification and extinction of the tea family (Theaceae). I hope to provide insights for the future of the group by uncovering the past history. 
+
+Please check the "Project" section for more information. 
 
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_YujingYan.pdf" "newtab" >}}resumé{{< /staticref >}}.
