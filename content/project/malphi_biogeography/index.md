@@ -17,16 +17,25 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 2018 onwards
+
+Malpighiaceae is a family of flowering plants in the order Malpighiales. It comprises about 73 genera and 1315 species, all of which are native to the tropics and subtropics. About 80% of the genera and 90% of the species occur in the New World.
+
+In this project, I 
+
+- Performed DNA extraction for >100 species
+- Arranged genome skimming sequencing for >400 samples
+- Compiled a distribution dataset for c. 900 species
+- Performed biogeographic analysis.

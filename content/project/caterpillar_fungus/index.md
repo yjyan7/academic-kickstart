@@ -1,6 +1,6 @@
 ---
 title: Conservation of the Chinese caterpillar fungus under global warming
-summary: 2014-2020 @ Peking University & Institute of Microbiology, CAS
+summary: 2014-2022 @ Peking University & Institute of Microbiology, CAS & Yangzhou University
 tags:
 - Conservation biology
 date: "2016-04-27T00:00:00Z"
@@ -31,6 +31,10 @@ links:
 ---
 
 2014-2022
+
+*Ophiocordyceps sinensis* (Chinese caterpillar fungus) is a highly valued fungus that has been used as a traditional Chinese medicine for centuries. The fungus is endemic to the Tibetan Plateau and its surrounding regions.
+The climate warming and decrease of precipitation on the Plateau were reported to result in reduction of nature habitats, density and the quality of O. sinensis.
+In this project, I 
 
 - Co-lead the project with researchers from the Institute of Microbiology, Chinese Academy of Sciences and Yangzhou University. 
 -	Modeled the distribution change of the Chinese caterpillar fungus under climate change using niche modeling method.
