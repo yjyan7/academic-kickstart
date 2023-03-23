@@ -30,7 +30,7 @@ publication_types:
 publication: '*Ecology and evolution*'
 publication_short: In *Ecology and Evolution*
 
-abstract: Large-scale patterns of species richness and the underlying mechanisms regulating
+abstract: 'Large-scale patterns of species richness and the underlying mechanisms regulating
   these patterns have long been the central issues in biogeography and macroecology.
   Phylogenetic community structure is a result of combined effects of contemporary
   ecological interactions, environmental filtering, and evolutionary history, and
@@ -51,7 +51,7 @@ abstract: Large-scale patterns of species richness and the underlying mechanisms
   in most areas of the plateau, suggesting that rapid speciation and environment filtering
   dominated the assembly of communities on the plateau. We further propose that biodiversity
   conservation in this area should better take into account ecological features for
-  different life-forms and phylogenetic lineages.
+  different life-forms and phylogenetic lineages.'
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus

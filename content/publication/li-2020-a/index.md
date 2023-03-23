@@ -32,7 +32,7 @@ publication_types:
 publication: '*Biodiversity Science*'
 publication_short: In *Biodiversity Science (in Chinese)*
 
-abstract: China is rich in macrofungal biodiversity. However, many species have been
+abstract: 'China is rich in macrofungal biodiversity. However, many species have been
   threatened in recent years by human activity and climate change. Red list assessment
   is the first step towards species con-servation. To protect this group of fungi,
   the Ministry of Ecology and Environment of the People's Republic of China and the
@@ -52,7 +52,7 @@ abstract: China is rich in macrofungal biodiversity. However, many species have 
   distribution and the range shifts of other macrofungal species in response to climate
   change. Challenges of using the model and possible solutions are also discussed.
   The species distribution modeling method is considered to have great potential for
-  red list assessments and the subsequent conservation of macrofungi.
+  red list assessments and the subsequent conservation of macrofungi.'
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus

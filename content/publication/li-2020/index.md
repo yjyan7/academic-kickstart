@@ -37,20 +37,7 @@ publication_types:
 publication: '*IMA Fungus*'
 publication_short: In *IMA Fungus*
 
-abstract: © 2020 The Author(s). Different hypotheses have been proposed to interpret
-  the observed unusual ITS (internal transcribed spacer) sequences in Ophiocordyceps
-  sinensis. The coexistence of diverged ITS paralogs in a single genome was previously
-  shown by amplifying the ITS region from mono-ascospore isolates using specific primers
-  designed for different ITS paralog groups. Among those paralogs, are AT-biased ITS
-  sequences which were hypothesized to result from repeat-induced point mutation (RIP).
-  This is a process that detects and mutates repetitive DNA and frequently leads to
-  epigenetic silencing, and these mutations have been interpreted as pseudogenes.
-  Here we investigate the occurrence and frequency of ITS pseudogenes in populations
-  of O. sinensis using large-scale sampling, and discusses the implications of ITS
-  pseudogenes for fungal phylogenetic and evolutionary studies. Our results demonstrate
-  a wide distribution of ITS pseudogenes amongst different geographic populations,
-  and indicate how ITS pseudogenes can contribute to the reconstruction of the evolutionary
-  history of the species.
+abstract: 'Different hypotheses have been proposed to interpret the observed unusual ITS (internal transcribed spacer) sequences in Ophiocordyceps sinensis. The coexistence of diverged ITS paralogs in a single genome was previously shown by amplifying the ITS region from mono-ascospore isolates using specific primers designed for different ITS paralog groups. Among those paralogs, are AT-biased ITS sequences which were hypothesized to result from repeat-induced point mutation (RIP). This is a process that detects and mutates repetitive DNA and frequently leads to epigenetic silencing, and these mutations have been interpreted as pseudogenes. Here we investigate the occurrence and frequency of ITS pseudogenes in populations of O. sinensis using large-scale sampling, and discusses the implications of ITS pseudogenes for fungal phylogenetic and evolutionary studies. Our results demonstrate a wide distribution of ITS pseudogenes amongst different geographic populations, and indicate how ITS pseudogenes can contribute to the reconstruction of the evolutionary history of the species.'
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
