@@ -53,8 +53,8 @@ abstract: © 2020 The Author(s). Different hypotheses have been proposed to inte
   history of the species.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+#  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Caterpillar fungus
@@ -67,9 +67,9 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-# url: http://example.org
+links:
+- name: URL
+  url: http://link.springer.com/10.1007/s10531-020-02109-z
 
 url_pdf: ''
 url_code: ''
@@ -100,5 +100,6 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
+
 ---

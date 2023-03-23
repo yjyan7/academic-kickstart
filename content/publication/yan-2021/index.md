@@ -70,9 +70,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL
+  url: https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syab042/6295695
 
 url_pdf: ''
 url_code: ''
@@ -103,8 +103,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
-links:
-- name: URL
-  url: https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syab042/6295695
+#slides: example
 ---

@@ -36,15 +36,18 @@ publication_short: In *Biodiversity and Conservation*
 
 # Summary. An optional shortened abstract.
 #summary: 
-tags: []
+tags: 
+- Caterpillar fungus
+- Conservation 
+- Nature reserves
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL
+  url: https://link.springer.com/article/10.1007/s10531-020-02109-z
 
 url_pdf: ''
 url_code: ''
@@ -67,8 +70,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- content/project/caterpillar_fungus/index.md
+projects: content/project/caterpillar_fungus/index.md
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -76,7 +79,5 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
-links:
-- name: URL
-  url: http://link.springer.com/10.1007/s10531-020-02109-z
+
 ---
