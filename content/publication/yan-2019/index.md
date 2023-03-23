@@ -54,12 +54,12 @@ abstract: 'Climate change in the near future may become a major threat to high-a
 #  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- biodiversity
-- global change
-- impact assessment
-- nature reserves
-- species conservation
-- species distribution models
+- Biodiversity
+- Climate change
+- Impact assessment
+- Nature reserves
+- Species conservation
+- Species distribution model
 
 # Display this page in the Featured widget?
 featured: false
@@ -69,14 +69,14 @@ links:
 - name: URL
   url: https://academic.oup.com/jpe/advance-article/doi/10.1093/jpe/rtz032/5499067
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -98,7 +98,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+# slides: example
 
 ---
 

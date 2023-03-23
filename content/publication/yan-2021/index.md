@@ -65,10 +65,10 @@ summary: We revealed a circumboreal distribution of the tea family from the earl
   early Cenozoic.
 
 tags: 
-- evolution
-- biogeography
-- phylogenomics
-- fossil
+- Evolution
+- Biogeography
+- Phylogenomics
+- Fossil
 
 # Display this page in the Featured widget?
 featured: true
@@ -78,14 +78,14 @@ links:
 - name: URL
   url: https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syab042/6295695
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -107,5 +107,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+# slides: example
 ---

@@ -58,11 +58,10 @@ abstract: Large-scale patterns of species richness and the underlying mechanisms
 #  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- climate
-- pattern
-- phylogenetic structure
-- Qinghai-Tibetan plateau
-- species richness
+- Climate
+- Phylogenetic structure
+- Tibetan plateau
+- Species richness
 
 # Display this page in the Featured widget?
 featured: false
@@ -72,14 +71,14 @@ links:
 - name: URL
   url: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3856756&tool=pmcentrez&rendertype=abstract
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
