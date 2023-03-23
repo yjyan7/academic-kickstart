@@ -32,7 +32,12 @@ publication_types:
 publication: '*Journal of Vegetation Science*'
 publication_short: In *Journal of Vegetation Science*
 
-abstract: ''
+abstract:
+Question: Environmental filtering plays an important role in plant community assembly. To what extent does the broad-scale environment influence the functional composition of woody plants in China’s forests? Is there stronger trait convergence under harsher environmental conditions?
+Location: China.
+Methods: We characterized community traits and their relationships to climate and soil, using a dataset with 1,312 plots of tree communities composed of 1,591 trees pecies and ten functional traits across China. Using quadratic models, we explored how community traits change with different environmental factors.
+Results: Trait spectra at the species level and the community level were significantly correlated, and the first two principal components captured 74.5% of the variation in community-weighted mean traits (CWMs). The trait spectra showed a clear elevational pattern and varied along climate and soil gradients. Compared to random expectations, the multi-trait functional diversity showed a divergence pattern on poor soils at the plot scale.
+Conclusions: Two well-known dimensions, the leaf economics spectrum and size- related spectrum, could be extended from the species level to the community level. Environment, especially climate conditions, drive the trait spectra and their elevational patterns at broad scale, indicating environmental filtering might shape the trait composition of tree communities in China. However, stronger environmental filtering does not occur under harsher environmental conditions.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
@@ -51,9 +56,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL
+  url: http://linkinghub.elsevier.com/retrieve/pii/S0006320714004078
 
 url_pdf: ''
 url_code: ''
@@ -85,7 +90,4 @@ url_video: ''
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
-links:
-- name: URL
-  url: http://linkinghub.elsevier.com/retrieve/pii/S0006320714004078
 ---

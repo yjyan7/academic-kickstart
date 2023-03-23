@@ -61,16 +61,16 @@ tags:
 - climate
 - pattern
 - phylogenetic structure
-- qinghai-tibetan plateau
+- Qinghai-Tibetan plateau
 - species richness
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL
+  url: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3856756&tool=pmcentrez&rendertype=abstract
 
 url_pdf: ''
 url_code: ''
@@ -102,9 +102,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
-links:
-- name: URL
-  url: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3856756&tool=pmcentrez&rendertype=abstract
+
 ---
 
 #{{% callout note %}}

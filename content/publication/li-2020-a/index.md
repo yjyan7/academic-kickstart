@@ -14,9 +14,6 @@ authors:
 - Jinsheng He
 - Song Gu
 - Yijian Yao
-author_notes:
-- Equal contribution
-- Equal contribution
 
 date: '2020-01-01'
 doi: 10.17520/biods.2019158
@@ -58,8 +55,8 @@ abstract: China is rich in macrofungal biodiversity. However, many species have 
   red list assessments and the subsequent conservation of macrofungi.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+#  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Biodiversity
@@ -97,13 +94,13 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- caterpillar_fungus
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
