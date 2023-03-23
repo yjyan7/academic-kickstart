@@ -32,27 +32,7 @@ publication_types:
 publication: '*Biodiversity Science*'
 publication_short: In *Biodiversity Science (in Chinese)*
 
-abstract: 'China is rich in macrofungal biodiversity. However, many species have been
-  threatened in recent years by human activity and climate change. Red list assessment
-  is the first step towards species con-servation. To protect this group of fungi,
-  the Ministry of Ecology and Environment of the People's Republic of China and the
-  Chinese Academy of Sciences性launchedthe Red List Assessment of Macrofungi in China
-  in 2016. A reasonable assessment largely relies样on the sufficient information of
-  species' geographic information, population numbers and sizes and population dynamics,
-  which is lacked in most of macrofungal species. It is therefore necessary to employ
-  new approaches to find and utilize more information for the assessment. Among the
-  assessed species, Ophiocordyceps sinensis, which is an edible and medicinal fungus
-  endemic to the Tibetan Plateau and its surrounding regions, has relatively abundant
-  information. This species gained attention worldwide due to its obvious economic
-  value and its importance to local societies. A species distribution modeling has
-  also been an important component of its red list assessment. Here, we call on a
-  previous study that aimed to predict the current potential distribution and to project
-  the future distribution of Ophiocordyceps sinensis, and then we discuss how this
-  modeling method can be employed in red list assessments to predict the current potential
-  distribution and the range shifts of other macrofungal species in response to climate
-  change. Challenges of using the model and possible solutions are also discussed.
-  The species distribution modeling method is considered to have great potential for
-  red list assessments and the subsequent conservation of macrofungi.'
+abstract: 'China is rich in macrofungal biodiversity. However, many species have been threatened in recent years by human activity and climate change. Red list assessment is the first step towards species con-servation. To protect this group of fungi, the Ministry of Ecology and Environment of the People's Republic of China and the Chinese Academy of Sciences性launchedthe Red List Assessment of Macrofungi in China in 2016. A reasonable assessment largely relies样on the sufficient information of species' geographic information, population numbers and sizes and population dynamics, which is lacked in most of macrofungal species. It is therefore necessary to employ new approaches to find and utilize more information for the assessment. Among the assessed species, Ophiocordyceps sinensis, which is an edible and medicinal fungus endemic to the Tibetan Plateau and its surrounding regions, has relatively abundant information. This species gained attention worldwide due to its obvious economic value and its importance to local societies. A species distribution modeling has also been an important component of its red list assessment. Here, we call on a previous study that aimed to predict the current potential distribution and to project the future distribution of Ophiocordyceps sinensis, and then we discuss how this modeling method can be employed in red list assessments to predict the current potential distribution and the range shifts of other macrofungal species in response to climate change. Challenges of using the model and possible solutions are also discussed. The species distribution modeling method is considered to have great potential for red list assessments and the subsequent conservation of macrofungi.'
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
