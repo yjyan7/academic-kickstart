@@ -20,6 +20,7 @@ bio: My research interests include biogeography, macroevolution, species diversi
 interests:
 - Biogeography
 - Macroevolution
+- Phylogenomics
 - Biodiversity Conservation
 
 # Education to show in About widget
@@ -27,13 +28,11 @@ education:
   courses:
   - course: PhD in Biodiversity
     institution: University of Copenhagen
-    year: 2020
+#    year: 2020
   - course: MSc in Ecology
     institution: Peking University
-    year: 2016
   - course: BSc in Ecology
     institution: Peking University
-    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,12 +69,12 @@ email: "yujingyan@fas.harvard.edu"
 highlight_name: true
 ---
 
-Hello! Thank you for visiting my site! 
+Hello! Welcome to my research site! 
 
 I am an evolutionary macroecologist with a broad interest in biogeography, phylogenomics, and biodiversity patterns under climate change. 
 
 I am now working as a HUH postdoctoral research fellow at the Harvard University Herbaria, studying the diversification and extinction of the tea family (Theaceae). I hope to provide insights for the future of the group by uncovering the past history. 
 
-Please check the "Project" section for more information. 
+Please explore this site to learn more about my research interests and publications. If you have further questions or are intersted in collaborating, please contact me: yujingyan@fas.harvard.edu 
 
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_YujingYan.pdf" "newtab" >}}resumé{{< /staticref >}}.

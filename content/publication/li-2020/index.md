@@ -69,7 +69,7 @@ featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+# url: http://example.org
 
 url_pdf: ''
 url_code: ''
